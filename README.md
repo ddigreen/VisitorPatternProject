@@ -19,3 +19,8 @@ This project demonstrates the **Visitor Pattern** in Java by calculating the are
 javac *.java
 java VisitorPatternDemo
 ```
+## UML Diagram
+
+Below is the UML diagram representing the **Visitor Pattern** structure:
+
+![UML Diagram](images/visitoruml.png)
